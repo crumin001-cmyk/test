@@ -1,0 +1,72 @@
+[33mcommit 7c609794611f3b0aa242e64395bc848ebcc6188e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/test[m[33m)[m
+Author: kumiko <crumin001@gmail.com>
+Date:   Fri Jan 30 03:22:03 2026 +0900
+
+    ブランチ作成したよ
+
+[33mcommit 43ddf3110db1bd03ee26ac94dc4da2b9c55d4b39[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: kumiko <crumin001@gmail.com>
+Date:   Fri Jan 30 01:47:41 2026 +0900
+
+    ToDoに×削除ボタンを追加
+
+[33mcommit e0570267fe460c6b40ccf78572013f79e75e26cd[m
+Merge: 5ac27c9 355a14b
+Author: kumiko <crumin001@gmail.com>
+Date:   Fri Jan 30 00:06:19 2026 +0900
+
+    Resolve README merge conflict
+
+[33mcommit 5ac27c91923fb2289de6306be603c692ec739abe[m[33m ([m[1;32mtest[m[33m)[m
+Author: kumiko <crumin001@gmail.com>
+Date:   Wed Jan 28 15:32:55 2026 +0900
+
+    php04を追加
+
+[33mcommit e4889ca3094289d14d75a19dfc76866365bc1348[m
+Author: kumiko <crumin001@gmail.com>
+Date:   Wed Jan 28 13:50:14 2026 +0900
+
+    リモートリポジトリの変更
+
+[33mcommit 355a14b6f3e95607e5f936dd0d409b5ee29cbf08[m
+Author: kumiko <crumin001@gmail.com>
+Date:   Mon Jan 26 13:44:40 2026 +0900
+
+    first commit
+
+[33mcommit 39b2d2f22101686b3acf33c3c1805a572142bd7e[m
+Author: kotakatsumi <kota.katsumi@gmail.com>
+Date:   Fri Jul 18 20:06:30 2025 +0900
+
+    ファイル追加
+
+[33mcommit 6556130238a9fd635aacab4a68d9690736bcbc24[m
+Author: KOTA KATSUMI <144547657+kotakatsumi@users.noreply.github.com>
+Date:   Fri Jul 18 20:04:13 2025 +0900
+
+    Update README.md
+
+[33mcommit e0c4a2efe8865a57567f14d35130c84ea234247a[m
+Author: kotakatsumi <kota.katsumi@gmail.com>
+Date:   Fri Jul 18 20:03:18 2025 +0900
+
+    first commit
+
+[33mcommit 6ca46ec794a332843dcb3e0f6aac67f75def37b1[m
+Author: kotakatsumi <kota.katsumi@gmail.com>
+Date:   Fri Jul 18 20:00:54 2025 +0900
+
+    first commit
+
+[33mcommit 9f1470f20abcc67639117b096e6a11c44cd1520b[m
+Author: kotakatsumi <kota.katsumi@gmail.com>
+Date:   Fri Jul 18 19:59:09 2025 +0900
+
+    first commit
+
+[33mcommit c23771759d39a54f9a4254a05ae414e2f79952c5[m
+Author: kotakatsumi <kota.katsumi@gmail.com>
+Date:   Fri Jul 18 19:57:58 2025 +0900
+
+    first commit
